@@ -1,5 +1,5 @@
-# cursor-flow
-A small **cursor-effect app** for macos with little resource usages!  And with a usefull "cmd+tab" function to reopen minimized window. 
+# FluidCursor
+FluidCursor, is a small **cursor-effect app** for macos with little resource usages!  And with a usefull "cmd+tab" function to reopen minimized window. 
 
 
 | effects | English Translation | marks / 常见场景 |
